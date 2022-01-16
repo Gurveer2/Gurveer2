@@ -30,4 +30,5 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![gurr-i's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurr-i&show_icons=true) -->
 
+[![Gurveer's github activity](https://activity-graph.herokuapp.com/graph?username=gurr-i&theme=chartreuse-dark)](https://github.com/gurr-i/github-readme-activity-graph)
 
