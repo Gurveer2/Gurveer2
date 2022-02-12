@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gurr-i)
 - 👋 Hi Stalker, I’m Gurveer Singh
 - 👀 I’m interested in competitive programing and Software development.
-- 😈I have work experience in Reactjs Framework and AWS.
+- 😈 I have work experience in Reactjs Framework and AWS.
 - 🌱 I’m currently learning Reactjs + React Native + Nodejs.
 - 📫 instagram [@i_gurri](www.instagram.com/i_gurri)
 <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gurr-i&layout=compact' width='300"'></p><p align ="middle">
