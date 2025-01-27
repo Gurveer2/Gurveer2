@@ -51,9 +51,6 @@
 ### 🌟 **Featured Repositories**  
 Here are some of my notable projects:  
 
-- **[Local Quiz App](https://github.com/gurr-i/local-quiz-app)**  
-  A quiz application built with JavaScript.  
-
 - **[Node.js Role-Based Auth with Sequelize](https://github.com/gurr-i/nodejs-app-rolebased-auth-sequelize)**  
   A role-based authentication system using Node.js, MySQL, and Sequelize.  
 
