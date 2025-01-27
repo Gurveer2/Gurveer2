@@ -1,15 +1,17 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gurr-i)
 
-### 👋 Hey there, I'm Gurveer Singh!  
-A passionate **Software Developer** and **Competitive Programmer** who loves building cool stuff and solving problems.  
+### 👋 Hi, I'm **Gurveer Singh**  
+**Full-Stack Web Developer** | **Competitive Programmer** | **IIT Roorkee '23**  
+📍 Punjab, India | 🕒 UTC +05:30  
 
 ---
 
 ### 🚀 **About Me**  
-- 🌱 Currently learning **AWS, Node.js, MySQL, and Sequelize**.  
-- 😈 Experienced in **React.js** and **AWS**.  
-- 💻 Love competitive programming and software development.  
-- 📫 Reach me on Instagram: [@i_gurri](https://www.instagram.com/i_gurri).  
+- 💻 Passionate about building scalable web applications and solving complex problems.  
+- 🌱 Currently mastering **AWS, Node.js, MySQL, and Sequelize**.  
+- 🛠️ Experienced in **React.js, Node.js, AWS, and Flutter**.  
+- 🏆 Achievements: **YOLO, Quickdraw, Pull Shark** on GitHub.  
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/gurveeer/) | [Instagram](https://www.instagram.com/i_gurri)  
 
 ---
 
@@ -17,12 +19,12 @@ A passionate **Software Developer** and **Competitive Programmer** who loves bui
 <p align="middle">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 ---
@@ -40,14 +42,29 @@ A passionate **Software Developer** and **Competitive Programmer** who loves bui
 ---
 
 ### 🏆 **Achievements**  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/gurr-i)  
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/gurr-i)  
+- [![YOLO](https://img.shields.io/badge/YOLO-achievement-brightgreen)](https://github.com/gurr-i)  
+- [![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-blue)](https://github.com/gurr-i)  
+- [![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-orange)](https://github.com/gurr-i)  
 
 ---
 
-### 🌟 **Featured Projects**  
-- **[Project 1](https://github.com/gurr-i/project1)** - A cool project description.  
-- **[Project 2](https://github.com/gurr-i/project2)** - Another awesome project description.  
+### 🌟 **Featured Repositories**  
+Here are some of my notable projects:  
+
+- **[Local Quiz App](https://github.com/gurr-i/local-quiz-app)**  
+  A quiz application built with JavaScript.  
+
+- **[Node.js Role-Based Auth with Sequelize](https://github.com/gurr-i/nodejs-app-rolebased-auth-sequelize)**  
+  A role-based authentication system using Node.js, MySQL, and Sequelize.  
+
+- **[Save Restricted Content Bot](https://github.com/gurr-i/Save-Restricted-Content-Bot-Repo-normal)**  
+  A Telegram bot to save restricted content with custom thumbnail support.  
+
+- **[Custom Console Logger](https://github.com/gurr-i/custom-console-logger-function)**  
+  A JavaScript utility to log variables with their names.  
+
+- **[React.js Role-Based Auth API](https://github.com/gurr-i/Reactjs-app-rolebased-auth-api)**  
+  A React.js application with role-based authentication.  
 
 ---
 
@@ -68,7 +85,7 @@ A passionate **Software Developer** and **Competitive Programmer** who loves bui
 
 ### 📫 **Let's Connect!**  
 <p align="middle">
-  <a href="https://www.linkedin.com/in/gurr-i/">
+  <a href="https://www.linkedin.com/in/gurveeer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/gurr-i">
