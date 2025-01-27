@@ -69,7 +69,7 @@ Here are some of my notable projects:
 ---
 
 ### 📈 **Activity Graph**  
-[![Gurveer's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gurr-i&theme=react-dark)](https://github.com/gurr-i/github-readme-activity-graph)
+[![Gurveer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurr-i&theme=react-dark)](https://github.com/gurr-i/github-readme-activity-graph)
 
 ---
 
